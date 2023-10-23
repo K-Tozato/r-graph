@@ -154,7 +154,8 @@ Rでグラフを作成するためのコード集．
 
 <img src="./img/2Dmap.png" width="60%">
 
-<img src="./img/3Dmap.png" width="90%">
+<img src="./img/3Dmap.png" width="60%">
+
 
  - rglで画面状に出力される図は，回転・拡大縮小等を自由に行うことができる．
 
